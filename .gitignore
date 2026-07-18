@@ -1,0 +1,19 @@
+# Ignore virtual environments
+Laptop-Recommendation-System/.venv/
+Laptop-Recommendation-System/venv311/
+Laptop-Recommendation-System/crewai/
+
+# Python cache
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Environment files
+.env
+**/.env
+
+# VS Code
+.vscode/
+
+# Node
+node_modules/
